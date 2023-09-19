@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  :sparkles: upload.ai Application using Node.js, TypeScript, fastify, @fastify/cors, @fastify/multipart, Prisma, Zod, OpenAI Node API Library and Vercel AI SDK
+  :sparkles: upload.ai Application using Node.js, TypeScript, fastify, @fastify/cors, @fastify/multipart, Prisma, Zod, OpenAI Node API Library, Vercel AI SDK, OpenAI, Tokenizer and REST Client
 </p>
 
 <p align="center">
@@ -45,6 +45,7 @@ npm install | yarn
 # Launch the app with npm or yarn
 npm run dev | yarn dev
 ```
+Click to learn more about the tools used: [OpenAI](https://github.com/osvaldokalvaitir/awesome/blob/main/src/artificial-intelligences/openai.md), [Tokenizer](https://github.com/osvaldokalvaitir/awesome/blob/main/src/artificial-intelligences/tokenizer.md), [REST Client](https://github.com/osvaldokalvaitir/awesome/blob/main/src/code-editors/visual-studio-code/extensions/rest-client.md).
 
 ## :memo: License
 
