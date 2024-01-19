@@ -45,6 +45,7 @@ npm install | yarn
 # Launch the app with npm or yarn
 npm run dev | yarn dev
 ```
+
 Click to learn more about the tools used: [OpenAI](https://github.com/osvaldokalvaitir/awesome/blob/main/src/machine-learning-platforms/openai.md), [Tokenizer](https://github.com/osvaldokalvaitir/awesome/blob/main/src/natural-language-processing/tokenizer.md), [REST Client](https://github.com/osvaldokalvaitir/awesome/blob/main/src/code-editors/visual-studio-code/extensions/rest-client.md).
 
 ## :memo: License
